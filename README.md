@@ -235,7 +235,7 @@ Python Backend Developer
 
 GitHub: [chaitanyamodi-dev](https://github.com/chaitanyamodi-dev)
 
-LinkedIn: [chaitanya-modi](https://www.linkedin.com/in/chaitanya-modi/)
+LinkedIn: [chaitanya-modi](https://www.linkedin.com/in/chaitanya-modi-dev/)
 
 ---
 
